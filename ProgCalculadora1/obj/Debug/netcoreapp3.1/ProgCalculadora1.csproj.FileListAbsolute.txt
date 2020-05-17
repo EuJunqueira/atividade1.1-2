@@ -1,0 +1,26 @@
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.csprojAssemblyReference.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.exe
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ProgCalculadora1\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.genruntimeconfig.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.exe
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.dll
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\bin\Debug\netcoreapp3.1\ProgCalculadora1.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.csprojAssemblyReference.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.dll
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-2\ProgCalculadora1\obj\Debug\netcoreapp3.1\ProgCalculadora1.genruntimeconfig.cache
